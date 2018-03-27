@@ -1,0 +1,1 @@
+# ping-many-ip-by-only-one-script
